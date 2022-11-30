@@ -1,0 +1,8 @@
+$primary: blue;
+@import "../node_modules/bulma/bulma.sass";
+$bgcolor: rgb(255, 0, 0);
+
+html, body {
+    background-color: lighten($bgcolor,30%);
+}
+
